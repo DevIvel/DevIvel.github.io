@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-v2",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ciar4n/izmir": "^1.0.1",
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@tsparticles/engine": "^3.3.0",
+    "@tsparticles/slim": "^3.3.0",
+    "@tsparticles/vue3": "^3.0.1",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "three": "^0.162.0",
+    "three-gltf-loader": "^1.111.0",
+    "three-orbit-controls": "^82.1.0",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11"
+  }
+}
